@@ -52,7 +52,7 @@ function draw() {
     dustBin1.display();
  	dustBin2.display();
 	dustBin3.display();
-	
+	ellipse(30, 730, 10);
   
   drawSprites();
  
